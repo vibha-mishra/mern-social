@@ -1,0 +1,12 @@
+.coverCameraSpan {
+  background-color: white;
+  border: 2px solid white;
+  float: right;
+  position: relative;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+  top: -20px;
+  right: 14px;
+}
